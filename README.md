@@ -10,16 +10,14 @@ As the data analyst, I would be helping them to launch a strategy for new online
 
 ## Key Questions and Objectives
 
-The Rockbuster Stealth Management Board has asked a series of business questions and
-they expect data-driven answers that they can use for their 2020 company strategy. Here are
-the main questions they’d like to answer:
+The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
 
-    ● Which movies contributed the most/least to revenue gain?
-    ● What was the average rental duration for all videos?
-    ● Which countries are Rockbuster customers based in?
-    ● Where are customers with a high lifetime value based?
-    ● Do sales figures vary between geographic regions?
+1. Which movies contributed the most/least to revenue gain?
+2. What was the average rental duration for all videos?
+3. Which countries are Rockbuster customers based in?
+4. Where are customes with a high lifetime value based?
+5. Do sales figures vary between geographic regions?
 
 ## Data and Tools
 
-Data used was from Rockbuster's Relational Database Management System, and was accessed via Postgre SQL and pgAdmin 4. Data sets include Rockbuster's payment, rental, film_actors, inventory, film_category, customer, staff, store, address, actor, film, category, language, city, and country. All visualizations were done using Tableau. View Visualizations here: https://public.tableau.com/views/Achievement3_17296292468640/MoviesandGenre?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Data used was from Rockbuster's Relational Database Management System, and was accessed via Postgre SQL and pgAdmin 4. Data sets include Rockbuster's payment, rental, film_actors, inventory, film_category, customer, staff, store, address, actor, film, category, language, city, and country. All visualizations were done using Tableau. View Visualizations [here]( https://public.tableau.com/views/Achievement3_17296292468640/MoviesandGenre?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
